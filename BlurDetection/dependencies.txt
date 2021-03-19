@@ -19,7 +19,7 @@ html5lib==0.999
 httplib2==0.8
 imutils==0.3.6
 ipython==1.2.1
-Jinja2==2.7.2
+Jinja2==2.11.3
 lockfile==0.8
 lxml==3.3.3
 Mako==0.9.1
